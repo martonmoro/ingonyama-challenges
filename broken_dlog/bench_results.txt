@@ -1,0 +1,8 @@
+bigint sequential:
+Time to find r: 314.99981525s
+bigint parallel:
+Time to find r: 149.43380175s
+rug sequential:
+Time to find r: 143.326905958s
+rug parallel:
+Time to find r: 77.110143334s
